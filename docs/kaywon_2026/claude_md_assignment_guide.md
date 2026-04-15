@@ -47,7 +47,6 @@
 ### 참고 강의자료
 
 - [기존 강의자료 폴더](https://drive.google.com/drive/folders/1WT5JTUyapPa-cLRdVyzqHaNcywttNsSR?usp=sharing)
-- [웹운영 2026-1 second brain 자료](https://phonicspark.github.io/webmanagement/2026-1/01_second_brain.html)
 
 ### 참고 원문 및 사례
 
